@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/how-to-ai-almost-anything/mitmas_s60_s25.jpg
+file: /ol-ocw-studio-app/courses/mas-s60-how-to-ai-almost-anything-spring-2025/mitmas_s60_s25.jpg
 file_size: 913308
 file_type: image/jpeg
 image_metadata:

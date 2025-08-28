@@ -6,5 +6,5 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
 title: Course Website
 uid: 5baa2c64-ca36-475f-a2de-6cd3977c968f
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20250802150243/https://mit-mi.github.io/how2ai-course/spring2025/
 ---
