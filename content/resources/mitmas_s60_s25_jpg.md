@@ -8,8 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: 'This rendering atop a classical painting is an example of computer vision,
     a branch of AI that learns from many images and uses bounding boxes to identify
-    and classify objects. (Courtesy of {{% resource_link "744599a5-8a0f-42a2-b6f7-6c7ae32fbb25"
-    "jurvetson" %}} on Flickr. License: CC BY.)'
+    and classify objects. (Courtesy of [jurvetson](https://www.flickr.com/photos/jurvetson/52985047804/)
+    on Flickr. License: CC BY.)'
   credit: 'Courtesy of jurvetson on Flickr. License: CC BY.'
   image-alt: Computer-drawn bounding boxes on top of a classical painting, identifying
     the areas of holy spirit, brain, God, person, and foot.
